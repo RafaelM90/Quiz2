@@ -1,0 +1,25 @@
+
+:root{
+    background-color:  #fffacd;
+    --rosa: #ff69b4;
+    --amarelo-suave: #fffacd; /* Amarelo pastel (fundo mais suave) */
+    --laranja: #ff8c00;
+    --vermelho: #ff4500;
+    --texto-claro: #fff;
+    --texto-escuro: #1c1a1a;
+    --sombra-rosa: 0 0.1rem 1.4rem 0 rgba(245, 161, 203, 0.438);
+    --btn-rosa: linear-gradient(90deg, var(--rosa) 0%, var(--rosa) 100%);
+}
+body{
+    color: var(--laranja);
+}
+
+#highScoreList{
+    list-style: none;
+    margin-bottom: 4rem;
+}
+
+.high-score{
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+}
