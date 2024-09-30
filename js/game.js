@@ -10,12 +10,6 @@ let score = 0
 let questionCounter = 0
 let availableQuestions = []
 
-// let perguntaAtual = {}
-// let acceptingAnswers = true
-// let score = 0
-// let contadorPerguntas = 0
-// let availableQuestions = []
-
 let perguntas = [
     {   
         // Questões de múltipla escolha sobre sequência aritimética (4) 
